@@ -1,0 +1,25 @@
+.t-shirt{
+    margin: 30px;
+    padding: 10px;
+    border: 2px solid lightcoral;
+    border-radius: 20px;
+    
+}
+.t-shirt img{
+    width: 200px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.btn-tshirt{
+    background-color: lightsalmon;
+}
+
+.btn-tshirt:hover{
+    background-color: lightcoral;
+    border: none;
+}
+
+.t-shirt span{
+    font-size: 30px;
+}
