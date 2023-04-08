@@ -1,0 +1,15 @@
+nav{
+    margin-bottom: 20px;
+}
+nav a{
+    margin: 20px;
+    padding: 10px 20px;
+    color: black;
+    border-radius: 20px;
+    background-color: lightgreen;
+}
+
+nav a:hover{
+    background-color: lightsalmon;
+    color: black;
+}
